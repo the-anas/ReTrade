@@ -5,3 +5,4 @@ flask_sqlalchemy
 marshmallow
 matplotlib
 jwt
+requests
