@@ -75,7 +75,7 @@ def login_required(f):
 
 
 def send_email(email, password):
-    apikey = "key-ff1fe9c3f6f3bda4938446103829df69"
+    apikey = "key-530b1d27ad7e4edc3768dfd5868e2777"
     domain = "sandboxe838aec0d31f4d4e87c7fee2d734678a.mailgun.org"
     return requests.post(
 		f"https://api.mailgun.net/v3/{domain}/messages",
