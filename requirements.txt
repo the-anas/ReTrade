@@ -7,3 +7,4 @@ matplotlib
 jwt
 requests
 alpha_vantage
+pyjwt
