@@ -1,7 +1,0 @@
-flask 
-flask-smorest
-python-dotenv
-flask_sqlalchemy
-marshmallow
-matplotlib
-jwt
