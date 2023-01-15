@@ -6,4 +6,4 @@ marshmallow
 matplotlib
 jwt
 requests
-alpha-vintage
+alpha_vintage
